@@ -1,3 +1,8 @@
+Group Name : Jhadieja and Friends
+Bargado, Jhadieja D.
+Dominguez, Laurence Jhon A.
+Doral, Zhynnel
+
 first test overfitted
 ![alt text](images/test1_overfitted.png)
 
